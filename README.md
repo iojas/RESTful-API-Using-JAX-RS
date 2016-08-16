@@ -1,5 +1,6 @@
-# RESTful-API-Using-JAX-RSTitle: Developing RESTful API with JAX-RS
+# RESTful-API-Using-JAX-RS
 
+Title: Developing RESTful API with JAX-RS
 Language Used: JAVA
 Frameworks: Jersey, JAX-RS, Maven
 Java Packages: javax.ws.rs, sql, util.
